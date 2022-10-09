@@ -1,7 +1,6 @@
-
-    
-    div{
-    max-width: 1600px;
+body
+div {
+     max-width: 1600px;
     margin: 0 auto;
     }
     
@@ -64,10 +63,7 @@
         width: 80px;
     }
     #hero-img {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 80px;
+        width: 100px;
     }
     footer p {
         font-size: 1.2em;
