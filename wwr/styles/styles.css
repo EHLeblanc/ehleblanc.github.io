@@ -1,9 +1,10 @@
-body {
+
+    
+    div{
     max-width: 1600px;
+    }
+    #content{
     margin: 0 auto;
-    text-align: center; 
-    text-decoration: none;
-    text-align: center;
     }
   
     .button-box {
